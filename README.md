@@ -1,4 +1,4 @@
-= Who am I?
+# Who am I?
 
 Passionate about science, math, arts, music, theater and literature. I'm moved by change and I change as I move. 
 To settle in the midst of change is the great art of life.
